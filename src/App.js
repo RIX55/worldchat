@@ -1,23 +1,27 @@
-import logo from './logo.svg';
+import React from 'react';
+import { SideBar } from "./components/SideBar/SideBar.component";
+import Messages from "./components/Messages/Messages.component"
+
 import './App.css';
+import { Grid } from 'semantic-ui-react';
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+  return (<div style={{backgroundColor: '#29132e'}}>
+    <Grid columns="equal">
+      <SideBar />
+      <Grid.Column className="messagepanel">
+        <Messages />
+      </Grid.Column>
+
+      <Grid.Column width={100}>
+        <span >
+
+        </span>
+      </Grid.Column>
+    </Grid>
+    <div style={{marginLeft: "80px", backgroundColor:"#rgba(0,0,0,.87)", color :"white", height: " 80px"}}>
+        <h1 style={{marginLeft:"700px"}}>ADSENSE</h1>
+    </div>
     </div>
   );
 }
