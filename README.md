@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+#Preview of Web Application
+![chatImagen](https://user-images.githubusercontent.com/45168114/136800108-2362bbfa-9e1a-4b6e-a314-81fb8fb5432b.PNG)
+
+![UI_WC](https://user-images.githubusercontent.com/45168114/136800154-18fb7cc9-ce68-423b-aecf-4fdd1a43ef63.PNG)
+
+![WCregister_pg](https://user-images.githubusercontent.com/45168114/136800195-5949294f-e7d6-45f8-bf94-5dd277048668.PNG)
+
+# Getting Started with Create React App![Uploading chatImagen.PNG…]()
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
