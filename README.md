@@ -5,7 +5,7 @@
 
 ![WCregister_pg](https://user-images.githubusercontent.com/45168114/136800195-5949294f-e7d6-45f8-bf94-5dd277048668.PNG)
 
-# Getting Started with Create React App![Uploading chatImagen.PNG…]()
+# Getting Started with Create React App!
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
